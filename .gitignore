@@ -20,6 +20,5 @@
 # cache or backup or core
 *~
 .*.swp
-*.dat
 *core*
 
